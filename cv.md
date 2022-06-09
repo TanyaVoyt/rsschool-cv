@@ -1,5 +1,5 @@
 # **Tatsiana Vaitsiuk**
 ## **Contacts:**
-- ### **Discord:** [https://discord.com/channels/@me]
-- ### **GitHub:** [https://github.com/TanyaVoyt]
+- ### **Discord:** [ Tatyana#7561 ] (https://discord.com/channels/@me)
+- ### **GitHub:** [ TanyaVoyt ] (https://github.com/TanyaVoyt)
 - ### **Location:** Brest, Belarus
