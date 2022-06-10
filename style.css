@@ -1,10 +1,8 @@
 <style>
 body{
-  background:#c0c0c0; /* Меняется фон экрана, выбирается здесь */
-}
-
-#wrapper{ /* Оболочка страницы сайта */
-  width: 900px; /* Меняется ширина страницы */
+      background:#c0c0c0;}
+#wrapper{
+  width: 900px;
   margin: 0 auto;
-  background:#f2e8c9; /* Меняется задний фон страницы */
+  background:#f2e8c9;
 }
