@@ -1,1 +1,1 @@
-https://github.com/TanyaVoyt/rsschool-cv.git
+https://TanyaVoyt.github.io/rsschool-cv/
